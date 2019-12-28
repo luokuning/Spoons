@@ -1,6 +1,6 @@
 # Some Useful Spoons for Hammerspoon
 
-Provide some useful Spoons.
+Provide some useful Spoons. Clone the repository and double click the spoon you want to install.
 
 ## LaunchITerm2.spoon
 

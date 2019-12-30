@@ -15,6 +15,10 @@ LaunchITerm2:bindHotKeys({
   toggle={{'fn'}, 'F11'}
 })
 
+-- Start
 LaunchITerm2:start()
+
+-- Stop
+LaunchITerm2:stop()
 ```
 
